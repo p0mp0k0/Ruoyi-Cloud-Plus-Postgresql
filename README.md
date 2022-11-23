@@ -1,7 +1,7 @@
 ## 系统简介
 
-[![码云Gitee](https://gitee.com/p0mp0k0/RuoYi-Cloud-Plus-Postgresql/badge/star.svg?theme=blue)](https://gitee.com/p0mp0k0/Ruoyi-Cloud-Plus-Postgresql)
-[![GitHub](https://img.shields.io/github/stars/p0mp0k0/RuoYi-Cloud-Plus-Postgreql.svg?style=social&label=Stars)](https://github.com/p0mp0k0/RuoYi-Cloud-Plus-Postgresql)
+[![star](https://gitee.com/p0mp0k0/Ruoyi-Cloud-Plus-Postgresql/badge/star.svg?theme=dark)](https://gitee.com/p0mp0k0/Ruoyi-Cloud-Plus-Postgresql/stargazers)
+[![GitHub](https://img.shields.io/github/stars/p0mp0k0/Ruoyi-Cloud-Plus-Postgresql?style=social&label=Stars)](https://github.com/p0mp0k0/RuoYi-Cloud-Plus-Postgresql)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://gitee.com/p0mp0k0/RuoYi-Cloud-Plus-Postgresql/blob/master/LICENSE)
 <br>
 [![RuoYi-Cloud-Plus-Postgresql](https://img.shields.io/badge/Ruoyi%20Vue%20Plus%20Postgresql-v1.3.0-brightgreen)](https://gitee.com/p0mp0k0/RuoYi-Cloud-Plus-Postgresql)
