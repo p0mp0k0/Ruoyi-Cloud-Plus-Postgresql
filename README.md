@@ -1,10 +1,10 @@
 ## 系统简介
 
-[![码云Gitee](https://gitee.com/p0mp0k0/RuoYi-Cloud-Plus-Postgresql/badge/star.svg?theme=blue)](https://gitee.com/JavaLionLi/RuoYi-Cloud-Plus)
-[![GitHub](https://img.shields.io/github/stars/p0mp0k0/RuoYi-Cloud-Plus-Postgreql.svg?style=social&label=Stars)](https://github.com/JavaLionLi/RuoYi-Cloud-Plus)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://gitee.com/JavaLionLi/RuoYi-Cloud-Plus/blob/master/LICENSE)
+[![码云Gitee](https://gitee.com/p0mp0k0/RuoYi-Cloud-Plus-Postgresql/badge/star.svg?theme=blue)](https://gitee.com/p0mp0k0/Ruoyi-Cloud-Plus-Postgresql)
+[![GitHub](https://img.shields.io/github/stars/p0mp0k0/RuoYi-Cloud-Plus-Postgreql.svg?style=social&label=Stars)](https://github.com/p0mp0k0/RuoYi-Cloud-Plus-Postgresql)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://gitee.com/p0mp0k0/RuoYi-Cloud-Plus-Postgresql/blob/master/LICENSE)
 <br>
-[![RuoYi-Cloud-Plus-Postgresql](https://img.shields.io/badge/Ruoyi%20Vue%20Plus%20Postgresql-v1.3.0-brightgreen)](https://gitee.com/JavaLionLi/RuoYi-Cloud-Plus)
+[![RuoYi-Cloud-Plus-Postgresql](https://img.shields.io/badge/Ruoyi%20Vue%20Plus%20Postgresql-v1.3.0-brightgreen)](https://gitee.com/p0mp0k0/RuoYi-Cloud-Plus-Postgresql)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-blue.svg)]()
 [![JDK-11](https://img.shields.io/badge/JDK-11-green.svg)]()
 
